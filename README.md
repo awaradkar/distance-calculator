@@ -32,3 +32,7 @@ The users are arranged in ascendng order of there id.
     http://localhost:8080/v1/userDistances/
     ```   
 2. The attained output for the customers.txt file in the repository can be seen in the Output.txt.   
+2. The output can also be accessed via the following url:
+    ```
+    https://obscure-gorge-79974.herokuapp.com/v1/userDistances/
+    ```
