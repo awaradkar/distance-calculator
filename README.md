@@ -23,6 +23,12 @@ The users are arranged in ascendng order of there id.
     main-1.0-SNAPSHOT.jar
     ```
 2. Run the jar file using the following command
+    ```
     java -jar main-1.0-SNAPSHOT.jar
-    
+    ```   
 2. Make sure the customers.txt file is in the same folder as the jar.
+2. Once you run the jar the output can be accessed using the following local url:
+    ```
+    http://localhost:8080/v1/userDistances/
+    ```   
+2. The attained output for the customers.txt file in the repository can be seen in the Output.json.   
