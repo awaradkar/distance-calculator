@@ -31,4 +31,4 @@ The users are arranged in ascendng order of there id.
     ```
     http://localhost:8080/v1/userDistances/
     ```   
-2. The attained output for the customers.txt file in the repository can be seen in the Output.json.   
+2. The attained output for the customers.txt file in the repository can be seen in the Output.txt.   
